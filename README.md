@@ -17,10 +17,27 @@ With over 3 years of experience, I specialize in crafting responsive and accessi
 
 Currently working as a freelance developer, I help early-stage startups and product teams turn ideas into working, production-ready applications. I’ve contributed to international projects across Europe, EEUU and Canada.
 
-I’m focused on:
-- ⚙️ Performance optimization (Web Vitals, lazy loading, SSR/ISR)
-- ✅ Testing with **Jest** and **React Testing Library**
-- 🚀 CI/CD and automated deployments with **Vercel**, **Netlify**, and **Docker**
+🚀 What I do
+I design, build, and launch complete web applications — from idea to production.
+With a strong focus on clean architecture and great user experience, I work closely with teams and founders to transform concepts into scalable, performant, and maintainable products.
+
+My skillset covers:
+
+🧠 Full product development: from frontend to backend, database design, and deployment
+
+⚡ Fast, responsive, and accessible UIs using React, Next.js, TypeScript, SCSS, Tailwind
+
+🛠️ Robust backends with Node.js, Express, Python, PostgreSQL, and MongoDB
+
+🔒 Authentication systems (JWT, OAuth, role-based access)
+
+🔁 APIs & integrations: REST, GraphQL, third-party services
+
+🚢 Production-ready delivery with CI/CD, Docker, Vercel, and Netlify
+
+✅ Testing with Jest, React Testing Library, and Postman
+
+I also optimize apps for speed, SEO, and usability — focusing on Web Vitals, code splitting, and server-side rendering (SSR/ISR).
 
 I’m available for new **remote opportunities** — especially where I can bring speed, structure, and user-first thinking to fast-moving teams.
 
