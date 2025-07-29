@@ -17,11 +17,11 @@ With over 3 years of experience, I specialize in crafting responsive and accessi
 
 Currently working as a freelance developer, I help early-stage startups and product teams turn ideas into working, production-ready applications. I’ve contributed to international projects across Europe, EEUU and Canada.
 
-🚀 What I do
+## What I do
 I design, build, and launch complete web applications — from idea to production.
 With a strong focus on clean architecture and great user experience, I work closely with teams and founders to transform concepts into scalable, performant, and maintainable products.
 
-My skillset covers:
+## My solutions include:
 
 🧠 Full product development: from frontend to backend, database design, and deployment
 
@@ -30,6 +30,8 @@ My skillset covers:
 🛠️ Robust backends with Node.js, Express, Python, PostgreSQL, and MongoDB
 
 🔒 Authentication systems (JWT, OAuth, role-based access)
+
+🤖 AI integration: leveraging OpenAI, ChatGPT, and custom ML APIs to enhance user experience and automation
 
 🔁 APIs & integrations: REST, GraphQL, third-party services
 
