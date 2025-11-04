@@ -1,9 +1,7 @@
 <h1 align="center">Franco Seiler</h1>
-<h3 align="center">Full Stack Developer · Front-End Specialist · Freelance Consultant</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.francoseiler.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/franco-seiler/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seilerfranco317@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
